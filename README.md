@@ -1,9 +1,6 @@
 # MOC
 Creating a Own server from Old mobile
 
-# MOC
-Creating a Own server from Old mobile
-
 Great — now we convert your entire system into a **professional GitHub-ready documentation** 📘
 You can directly copy this into your repo `README.md`.
 
